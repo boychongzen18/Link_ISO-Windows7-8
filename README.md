@@ -11,7 +11,7 @@ Link Download windows-usb-dvd-download-tool
 https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
 # Download Windows Seven Via IDM
 ![be](https://raw.githubusercontent.com/boychongzen18/ISO-Windows7/master/windows.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/ISO-Windows7/master/win2.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/ISO-Windows7/master/windows1.jpg)
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
