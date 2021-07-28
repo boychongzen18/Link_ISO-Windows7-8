@@ -5,7 +5,7 @@ Link Download Via GoogleDrive
 Link Windows 7
 https://drive.google.com/file/d/13v6eYiYJeJ9e8zDNJNdmEBEShE1BEL4w/view?usp=drivesdk
 
-
+https://drive.google.com/u/0/uc?id=13v6eYiYJeJ9e8zDNJNdmEBEShE1BEL4w&export=download
 
 Link Windows 8.1
 Windows 8.1 ISO 32 Bit
