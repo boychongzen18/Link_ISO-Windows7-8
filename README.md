@@ -4,10 +4,7 @@
 
 # List Windows Seven GoogleDrive
 ![be](https://raw.githubusercontent.com/boychongzen18/ISO-Windows7/master/win.jpg)
-Link Download Via GoogleDrive
-https://drive.google.com/drive/folders/0BzCyEZsoMgBPX3lGcGhrUlh4UVE
 
-https://drive.google.com/file/d/13v6eYiYJeJ9e8zDNJNdmEBEShE1BEL4w/view?usp=drivesdk
 # Download Windows Seven Via IDM
 ![be](https://raw.githubusercontent.com/boychongzen18/ISO-Windows7/master/windows.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ISO-Windows7/master/windows1.jpg)
