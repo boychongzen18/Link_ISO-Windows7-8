@@ -3,6 +3,8 @@
 
 Mengatasi RAM Windows Usable
 
+Created By Boychongzen aka Xroot
+
 ketik di search appe
 Klik advance & klik change
 
@@ -13,3 +15,5 @@ ketik msconfig cari boot
 ketik angka sama di change 
 
 Cari general & centang normal startup
+
+dan Restart Ulang Windows
