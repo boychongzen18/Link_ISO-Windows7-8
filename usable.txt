@@ -1,0 +1,15 @@
+
+
+
+Mengatasi RAM Windows Usable
+
+ketik di search appe
+Klik advance & klik change
+
+Klink Logo WIN & R
+
+ketik msconfig cari boot
+
+ketik angka sama di change 
+
+Cari general & centang normal startup
